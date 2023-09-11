@@ -43,3 +43,9 @@ Mashed potatoes or polenta to serve (optional)
 2 tsp freshly ground black pepper
 1 tsp lime juice or white vinegar
 
+<<<<<<< HEAD
+=======
+6. Neema: Matemba Recipe
+Put Matemba in warm water, put cooking oil on cooker, heat to some extend, throw matemba in it and stir until they are brownish, add salt and onions.
+
+>>>>>>> Dev
